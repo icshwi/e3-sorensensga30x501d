@@ -1,0 +1,4 @@
+[submodule "m-epics-sorensensga30x501d"]
+	path = m-epics-sorensensga30x501d
+	url = https://bitbucket.org/europeanspallationsource/m-epics-sorensensga30x501d
+	ignore = all
